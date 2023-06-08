@@ -13,7 +13,7 @@ fuqingxu/hmp:latest
 
 - clone this resp:
 ```
-git clone git@github.com:binary-husky/CALF.git
+git clone https://github.com/binary-husky/CALF.git
 ```
 
 - run calf:
