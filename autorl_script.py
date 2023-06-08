@@ -4,7 +4,7 @@ import logging, os
 from functools import lru_cache
 from THIRDPARTY.casmopolitan.bo_interface import BayesianOptimizationInterface
 from UTIL.file_lock import FileLock
-MasterAutoRLKey = 'auto_rl_reward_engineering_reverse'
+MasterAutoRLKey = 'auto_rl_3'
 os.makedirs(f'AUTORL/{MasterAutoRLKey}', exist_ok=True)
 
 
