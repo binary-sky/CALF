@@ -19,7 +19,7 @@ base = """
         "seed": 22334, 
         "mt_act_order": "new_method",
         "backup_files": [
-            "ALGORITHM/experimental_conc_mt_fuzzy5",
+            "ALGORITHM/calf_adj_lr",
             "MISSION/dca_multiteam"
         ]
     },
@@ -35,11 +35,11 @@ base = """
         "RewardAsUnity": true,
         "half_death_reward": true,
         "TEAM_NAMES": [
-            "ALGORITHM.experimental_conc_mt_fuzzy5.foundation->ReinforceAlgorithmFoundation",
-            "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy5.foundation->ReinforceAlgorithmFoundation",
+            "ALGORITHM.calf_adj_lr.foundation->ReinforceAlgorithmFoundation",
+            "TEMP.TEAM2.ALGORITHM.calf_adj_lr.foundation->ReinforceAlgorithmFoundation",
         ]
     },
-    "ALGORITHM.experimental_conc_mt_fuzzy5.foundation.py->AlgorithmConfig": {
+    "ALGORITHM.calf_adj_lr.foundation.py->AlgorithmConfig": {
         "train_traj_needed": 32,
         "n_focus_on": 4,
         "lr": 0.0003,
@@ -51,7 +51,7 @@ base = """
         "use_policy_resonance": false,
         "gamma": 0.99,
     },
-    "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy5.foundation.py->AlgorithmConfig": {
+    "TEMP.TEAM2.ALGORITHM.calf_adj_lr.foundation.py->AlgorithmConfig": {
         "train_traj_needed": 32,
         "n_focus_on": 4,
         "lr": 0.0003,
@@ -94,7 +94,7 @@ conf_override = {
         ],
 
     ########################################
-    "ALGORITHM.experimental_conc_mt_fuzzy5.foundation.py->AlgorithmConfig-->device_override":
+    "ALGORITHM.calf_adj_lr.foundation.py->AlgorithmConfig-->device_override":
         [
             "cuda:2",
             "cuda:2",
@@ -102,7 +102,7 @@ conf_override = {
             "cuda:3",
         ],
 
-    "ALGORITHM.experimental_conc_mt_fuzzy5.foundation.py->AlgorithmConfig-->gpu_party_override":
+    "ALGORITHM.calf_adj_lr.foundation.py->AlgorithmConfig-->gpu_party_override":
         [
             "cuda2_party3", 
             "cuda2_party3",
@@ -111,7 +111,7 @@ conf_override = {
         ],
 
     ########################################
-    "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy5.foundation.py->AlgorithmConfig-->device_override":
+    "TEMP.TEAM2.ALGORITHM.calf_adj_lr.foundation.py->AlgorithmConfig-->device_override":
         [
             "cuda:3",
             "cuda:3",
@@ -119,7 +119,7 @@ conf_override = {
             "cuda:2",
         ],
 
-    "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy5.foundation.py->AlgorithmConfig-->gpu_party_override":
+    "TEMP.TEAM2.ALGORITHM.calf_adj_lr.foundation.py->AlgorithmConfig-->gpu_party_override":
         [
             "cuda3_party3",
             "cuda3_party3",
