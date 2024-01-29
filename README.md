@@ -40,7 +40,7 @@ git clone https://github.com/binary-husky/CALF.git
 python autorl_script.py
 ```
 
-# structure
+# Structure
 
 ```mermaid
 flowchart LR
