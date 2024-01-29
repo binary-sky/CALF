@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # @author: Robin Ru (robin@robots.ox.ac.uk)
 
 import numpy as np

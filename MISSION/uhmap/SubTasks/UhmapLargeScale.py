@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import json, copy, re, inspect, os
 import numpy as np
 from UTIL.tensor_ops import my_view, repeat_at

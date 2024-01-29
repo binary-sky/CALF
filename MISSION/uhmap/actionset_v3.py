@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 ActDigitLen = 100
 def strActionToDigits(act_string):

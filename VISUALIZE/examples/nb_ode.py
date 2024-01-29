@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 import random, time
 from scipy.integrate import ode

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import_path_ref = {
     "collective_assult": ("MISSION.collective_assult.collective_assult_parallel_run",           'ScenarioConfig'),
     "dca_multiteam": ("MISSION.dca_multiteam.collective_assult_parallel_run",                   'ScenarioConfig'),

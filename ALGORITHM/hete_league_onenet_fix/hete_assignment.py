@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import copy
 import numpy as np
 from UTIL.tensor_ops import my_view, __hash__, repeat_at, gather_righthand

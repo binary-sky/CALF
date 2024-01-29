@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
     Description: HMP task runner, coordinates environments and algorithms
     Notes before you read code: 

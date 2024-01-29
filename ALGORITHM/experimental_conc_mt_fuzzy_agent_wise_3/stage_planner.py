@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import math
 import numpy as np
 from .foundation import AlgorithmConfig

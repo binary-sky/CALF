@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import inspect
 from abc import ABC, abstractmethod
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple, Type, Union

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, fnmatch, matplotlib, time, copy, json
 import numpy as np
 from functools import lru_cache

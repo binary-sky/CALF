@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 ## setup_mnist.py -- mnist data and model loading code
 ##
 ## Copyright (C) 2016, Nicholas Carlini <nicholas@carlini.com>.

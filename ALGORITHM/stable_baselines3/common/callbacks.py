@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os
 import warnings
 from abc import ABC, abstractmethod

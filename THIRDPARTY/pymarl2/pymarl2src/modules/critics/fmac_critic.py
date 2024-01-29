@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from numpy.core.numeric import True_
 import torch as th
 import torch.nn as nn

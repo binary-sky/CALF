@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # from malib.trainers.adhoc_trainer import AdHocTrainer
 from malib.trainers.multiagent_trainer import MATrainer
 from malib.trainers.singleagent_trainer import SATrainer

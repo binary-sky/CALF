@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from gym import spaces
 import torch as th
 import torch.distributions as tdist

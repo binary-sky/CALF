@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
 The trainer for multi-agent training.
 """

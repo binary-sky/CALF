@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from math import sqrt
 import numpy as np
 

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from typing import Callable, List, Optional, Tuple
 
 import numpy as np

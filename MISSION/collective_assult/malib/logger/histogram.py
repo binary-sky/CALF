@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Histogram logger input."""
 import numpy as np
 

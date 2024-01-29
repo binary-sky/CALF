@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch as th
 import torch.nn as nn
 

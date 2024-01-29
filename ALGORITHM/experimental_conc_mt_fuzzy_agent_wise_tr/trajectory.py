@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # cython: language_level=3
 from config import GlobalConfig
 import numpy as np

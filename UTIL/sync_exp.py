@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch, time
 import pickle, os
 

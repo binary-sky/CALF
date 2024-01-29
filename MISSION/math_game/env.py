@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import atexit, json
 from lib2to3.pytree import Base
 import os, sys, math

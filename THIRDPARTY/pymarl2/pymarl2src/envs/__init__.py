@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from functools import partial
 
 

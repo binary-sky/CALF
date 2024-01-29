@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, time, torch, traceback, shutil
 from typing import overload
 import numpy as np

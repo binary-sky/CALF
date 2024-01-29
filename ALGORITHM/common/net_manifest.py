@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 
 import torch.nn as nn
 def weights_init(m):

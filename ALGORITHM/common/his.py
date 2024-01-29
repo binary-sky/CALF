@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib

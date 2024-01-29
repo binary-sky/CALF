@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import datetime
 import os
 import pprint

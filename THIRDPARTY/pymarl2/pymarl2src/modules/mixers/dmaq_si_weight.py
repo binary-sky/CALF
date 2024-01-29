@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # From https://github.com/wjh720/QPLEX/, added here for convenience.
 import torch as th
 import torch.nn as nn

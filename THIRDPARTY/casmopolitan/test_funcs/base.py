@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # An abstract class implementation for all test functions
 
 from abc import abstractmethod

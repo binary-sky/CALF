@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 def validate_path():
     import os, sys
     dir_name = os.path.dirname(__file__)

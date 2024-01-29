@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 import time
 from MISSION.env_router import make_env_function

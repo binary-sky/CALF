@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from UTIL.colorful import *
 from UTIL.tensor_ops import my_view, __hash__, repeat_at, np_one_hot

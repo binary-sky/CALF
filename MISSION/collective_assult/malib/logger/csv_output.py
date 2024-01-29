@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """A `malib.logger.LogOutput` for CSV files."""
 import csv
 import warnings

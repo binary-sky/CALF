@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, commentjson, shutil, subprocess, tqdm, shutil, distutils
 from onedrivedownloader import download
 

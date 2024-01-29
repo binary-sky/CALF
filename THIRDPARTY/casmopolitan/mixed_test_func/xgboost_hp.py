@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from sklearn import model_selection, metrics, datasets
 import xgboost
 import numpy as np

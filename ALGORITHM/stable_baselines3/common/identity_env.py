@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from typing import Optional, Union
 
 import numpy as np

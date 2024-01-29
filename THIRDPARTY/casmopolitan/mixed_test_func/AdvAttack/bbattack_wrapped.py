@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # @author: Xingchen Wan
 # Wrapper around the bbattack_objective.py to provide a compatible interface into our codebase
 

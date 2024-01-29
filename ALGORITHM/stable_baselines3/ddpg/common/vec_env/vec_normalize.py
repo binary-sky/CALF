@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import pickle
 from copy import deepcopy
 from typing import Any, Dict, Union

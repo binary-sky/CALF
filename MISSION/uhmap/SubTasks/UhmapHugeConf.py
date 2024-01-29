@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 
 class SubTaskConfig():
     agent_list = [

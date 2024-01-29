@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 __all__ = ["Monitor", "ResultsWriter", "get_monitor_files", "load_results"]
 
 import csv

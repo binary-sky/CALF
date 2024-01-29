@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, copy, atexit, time, gzip, threading, setproctitle, traceback, json
 import numpy as np
 from multiprocessing import Process

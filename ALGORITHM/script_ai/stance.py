@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import copy
 import random
 import numpy as np

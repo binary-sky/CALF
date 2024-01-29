@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, copy, atexit, time, gzip, threading, zlib, asyncio
 import numpy as np
 from colorama import init

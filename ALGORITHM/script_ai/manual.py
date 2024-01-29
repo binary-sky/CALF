@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from UTIL.tensor_ops import my_view, copy_clone
 try:

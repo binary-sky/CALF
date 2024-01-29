@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch
 import numpy as np
 from collections import OrderedDict

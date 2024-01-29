@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import inspect
 
 # code from https://github.com/hartikainen/serializable/blob/master/serializable/serializable.py

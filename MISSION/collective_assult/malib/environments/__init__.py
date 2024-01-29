@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from malib.environments.differential_game import DifferentialGame
 from malib.environments.matrix_game import MatrixGame
 from malib.environments.pbeauty_game import PBeautyGame

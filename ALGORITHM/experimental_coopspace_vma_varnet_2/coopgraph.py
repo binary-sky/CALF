@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from .reinforce_foundation import CoopAlgConfig
 from UTIL.colorful import *
 from UTIL.tensor_ops import my_view, repeat_at

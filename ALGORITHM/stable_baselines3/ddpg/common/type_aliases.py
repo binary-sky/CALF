@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Common aliases for type hints"""
 
 from enum import Enum

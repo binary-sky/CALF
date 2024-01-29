@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import sys, os
 class HiddenPrints:
     def __enter__(self):

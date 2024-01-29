@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Utilities for ensuring that experiments are deterministic."""
 import random
 import numpy as np

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # Created by yingwen at 2019-06-30
 import datetime
 from malib.logger import logger

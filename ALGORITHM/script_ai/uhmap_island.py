@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from cmath import isinf, pi
 from turtle import done
 import numpy as np

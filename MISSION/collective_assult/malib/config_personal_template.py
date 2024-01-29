@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os
 
 USE_GPU = False

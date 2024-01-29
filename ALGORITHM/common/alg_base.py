@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, time, torch, traceback
 import numpy as np
 from config import GlobalConfig

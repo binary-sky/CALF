@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 
 from malib.spaces import Discrete, Box, MASpace, MAEnvSpec

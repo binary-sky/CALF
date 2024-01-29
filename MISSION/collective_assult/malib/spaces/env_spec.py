@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from malib.spaces import MASpace
 import numpy as np
 from malib.core import Serializable

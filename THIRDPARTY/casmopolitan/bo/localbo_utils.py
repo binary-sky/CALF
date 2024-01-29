@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import math
 import logging
 

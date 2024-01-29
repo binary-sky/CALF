@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # 该文件 用于定义 本文中使用的算法
 
 import math

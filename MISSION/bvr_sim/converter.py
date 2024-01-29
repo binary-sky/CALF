@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from .agent.env_cmd import CmdEnv
 from UTIL.tensor_ops import my_view

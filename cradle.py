@@ -1,20 +1,28 @@
-import re
+# Program Author: Qingxu Fu, CASIA
+
 import os
+import shutil
 
-# Set the path to your directory containing Python files
-path = "./"
+author = "Qingxu Fu, CASIA"
+prefix = "# Program Author: " + author
 
-# Regular expression to match Chinese characters
-re_cn = re.compile(u'[\u4e00-\u9fa5]+')
+# Get the current directory
+current_dir = os.getcwd()
 
-# Loop through each Python file in the directory
-for filename in os.listdir(path):
-    if filename.endswith(".py"):
-        # Read the file contents
-        with open(path + filename, 'r', encoding="utf-8") as f:
-            lines = f.readlines()
-        # Loop through each line and remove any Chinese comments
-        with open(path + filename, 'w', encoding="utf-8") as f:
-            for line in lines:
-                if not re_cn.search(line):
-                    f.write(line)
+# Iterate through all files and directories in the current directory
+for root, dirs, files in os.walk(current_dir):
+    for file in files:
+        # Check if the file is a Python file
+        if file.endswith(".py"):
+            # Open the file in read mode
+            file_path = os.path.join(root, file)
+            with open(file_path, "r") as f:
+                # Read the existing contents
+                contents = f.read()
+
+            # Add the prefix at the beginning of the file contents
+            new_contents = prefix + "\n\n" + contents
+
+            # Open the file in write mode and overwrite the contents
+            with open(file_path, "w") as f:
+                f.write(new_contents)

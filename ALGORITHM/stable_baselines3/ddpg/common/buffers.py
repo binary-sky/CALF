@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import warnings
 from abc import ABC, abstractmethod
 from typing import Dict, Generator, Optional, Union

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 
 from agent.yiteam_final_commit_v7.UTIL.colorful import print亮红
 from config import ADDRESS, config, POOL_NUM, ISHOST, XSIM_NUM

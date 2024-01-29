@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from ..core import World, Agent, Landmark
 from ..scenario import BaseScenario

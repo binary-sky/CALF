@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import time, requests, threading, os, atexit, psutil
 from UTIL.colorful import *
 

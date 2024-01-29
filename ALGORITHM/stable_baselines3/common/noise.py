@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import copy
 from abc import ABC, abstractmethod
 from typing import Iterable, List, Optional

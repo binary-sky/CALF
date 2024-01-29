@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # From https://github.com/wjh720/QPLEX/, added here for convenience.
 import copy
 from components.episode_buffer import EpisodeBatch

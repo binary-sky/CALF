@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
 @FileName：action_topic_list.py
 @Description：发布动作主题列表

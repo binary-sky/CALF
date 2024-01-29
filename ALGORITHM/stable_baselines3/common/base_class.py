@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Abstract base classes for RL algorithms."""
 
 import io

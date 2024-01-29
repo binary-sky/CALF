@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 class ScenarioConfig(object):  
     '''
         ScenarioConfig: This config class will be 'injected' with new settings from JSONC.

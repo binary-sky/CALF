@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import copy
 from components.episode_buffer import EpisodeBatch
 from modules.critics.coma import COMACritic

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # Lifted from COMBO code
 
 import numpy as np

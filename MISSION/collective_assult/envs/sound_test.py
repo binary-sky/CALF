@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # Source: https://techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/sound-effects-music/
 # and: https://realpython.com/playing-and-recording-sound-python/
 

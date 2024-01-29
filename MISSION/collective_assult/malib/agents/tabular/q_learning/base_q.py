@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import random
 import os
 from abc import abstractmethod

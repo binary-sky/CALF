@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import flock, os, torch, uuid, time, glob
 from atexit import register
 

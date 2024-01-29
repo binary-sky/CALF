@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import socket, threading, pickle, uuid, os, atexit, time, json, psutil
 from UTIL.file_lock import FileLock
 port_finder = os.path.expanduser('~/HmapTemp') + '/PortFinder/find_free_port_no_repeat.json'

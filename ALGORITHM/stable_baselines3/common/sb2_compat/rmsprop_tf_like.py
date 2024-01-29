@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from typing import Any, Callable, Dict, Iterable, Optional
 
 import torch

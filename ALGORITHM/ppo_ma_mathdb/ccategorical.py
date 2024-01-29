@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from torch.distributions.categorical import Categorical
 import torch
 from .foundation import AlgorithmConfig

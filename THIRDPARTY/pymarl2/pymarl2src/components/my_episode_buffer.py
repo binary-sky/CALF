@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # import torch as th
 # import numpy as np
 # from types import SimpleNamespace as SN

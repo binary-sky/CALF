@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Contains the output classes for the logger.
 
 Each class is sent logger data and handles it itself.

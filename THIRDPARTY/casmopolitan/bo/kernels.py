@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # Implementation of various kernels
 
 from gpytorch.kernels import Kernel

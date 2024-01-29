@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 # code changed from site-packages/torch/optim/lr_scheduler.py
 class FeedBackPolicyResonance:

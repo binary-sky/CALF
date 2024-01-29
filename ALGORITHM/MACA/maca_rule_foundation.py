@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from scipy.optimize import linear_sum_assignment
 import numpy as np
 import copy

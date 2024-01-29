@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from envs import REGISTRY as env_REGISTRY
 from functools import partial
 from components.episode_buffer import EpisodeBatch

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 #-*-coding:utf-8-*-
 """
 @FileName：cmd_env.py

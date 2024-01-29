@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 def validate_path():
     import os, sys
     # '/home/hmp/xx/hmp2g-heterogeneous-phase2/UTIL'

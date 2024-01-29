@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from gym.spaces import Space
 from malib.spaces import utils

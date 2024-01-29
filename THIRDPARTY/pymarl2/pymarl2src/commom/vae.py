@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch
 # from models import BaseVAE
 from torch import nn

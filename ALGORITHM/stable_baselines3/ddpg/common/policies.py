@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Policies: abstract base class and concrete implementations."""
 
 import collections

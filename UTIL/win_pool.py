@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
     Description: Efficient parallel execting tool, 
     Less efficient than the shm_pool (Linux only), 

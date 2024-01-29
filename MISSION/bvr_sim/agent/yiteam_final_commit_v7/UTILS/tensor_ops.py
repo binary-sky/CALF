@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import copy, json
 import numpy as np
 from functools import wraps

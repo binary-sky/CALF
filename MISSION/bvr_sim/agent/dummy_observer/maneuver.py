@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from ..env_cmd import CmdEnv
 from UTIL.tensor_ops import dir2rad, np_softmax, reg_rad_at, reg_rad, reg_deg_at

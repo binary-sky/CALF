@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Allows the taking of snapshots."""
 from os import path as osp
 import pickle

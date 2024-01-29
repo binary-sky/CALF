@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from ..agent import Agent
 from ..env_cmd import CmdEnv
 from UTIL.colorful import *

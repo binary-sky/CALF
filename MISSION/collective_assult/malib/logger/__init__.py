@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Logger module.
 
 This module instantiates a global logger singleton.

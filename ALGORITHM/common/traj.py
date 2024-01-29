@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # cython: language_level=3
 import numpy as np
 from UTIL.colorful import *

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch,time,random
 import numpy as np
 import torch.nn as nn

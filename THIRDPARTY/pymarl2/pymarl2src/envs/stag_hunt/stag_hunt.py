@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # From https://github.com/wendelinboehmer/dcg/blob/master/src/envs/stag_hunt.py
 from envs.multiagentenv import MultiAgentEnv
 import torch as th

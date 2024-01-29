@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from ..env_cmd import CmdEnv
 from UTIL.colorful import *
 from UTIL.tensor_ops import dir2rad, np_softmax, reg_rad_at, reg_deg_at, reg_rad, repeat_at

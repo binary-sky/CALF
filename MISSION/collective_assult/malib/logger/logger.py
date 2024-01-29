@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Logging facility.
 
 It takes in many different types of input and directs them to the correct

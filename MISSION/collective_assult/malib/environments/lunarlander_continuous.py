@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # actions a_v = forward acceleration [-1, 2], a_w = angular acceleration [-1, 1]
 import gym
 import numpy as np

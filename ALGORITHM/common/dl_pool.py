@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
     Description: deep learning sample manager
 

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from .reinforce_foundation import CoopAlgConfig
 from UTIL.colorful import *
 from .my_utils import copy_clone, my_view, add_onehot_id_at_last_dim, add_obs_container_subject

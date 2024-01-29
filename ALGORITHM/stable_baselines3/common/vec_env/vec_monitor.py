@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import time
 import warnings
 from typing import Optional, Tuple

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import subprocess
 import threading
 import copy, os

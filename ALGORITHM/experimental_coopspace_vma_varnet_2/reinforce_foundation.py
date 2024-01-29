@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, torch, copy, pickle
 import numpy as np
 try: 

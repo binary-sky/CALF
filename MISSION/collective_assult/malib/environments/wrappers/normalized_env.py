@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # Created by yingwen at 2019-03-13
 import gym
 import numpy as np

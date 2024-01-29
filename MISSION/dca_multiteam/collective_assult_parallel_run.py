@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import gym
 from gym import spaces
 import numpy as np

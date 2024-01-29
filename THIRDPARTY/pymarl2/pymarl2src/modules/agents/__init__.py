@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 REGISTRY = {}
 
 from .rnn_agent import RNNAgent

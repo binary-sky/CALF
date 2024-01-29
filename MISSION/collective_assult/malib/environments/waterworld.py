@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 import scipy.spatial.distance as ssd
 from gym import spaces

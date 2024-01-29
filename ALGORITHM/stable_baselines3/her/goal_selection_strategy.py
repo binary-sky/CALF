@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from enum import Enum
 
 

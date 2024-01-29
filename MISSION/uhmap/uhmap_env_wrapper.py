@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import json, os, subprocess, time, stat, platform, importlib
 import numpy as np
 from UTIL.colorful import print蓝, print靛, print亮红

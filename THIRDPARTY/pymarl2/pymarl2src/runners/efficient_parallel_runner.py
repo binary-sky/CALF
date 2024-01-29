@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from UTIL.colorful import *
 from UTIL.tensor_ops import np_one_hot
 # from UTIL.tensor_ops import np_one_hot, __hash__, sychronize_experiment, __hashn__

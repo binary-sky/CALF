@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """Probability distributions."""
 
 from abc import ABC, abstractmethod

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # @author: Robin Ru (robin@robots.ox.ac.uk)
 # This code is modified based on the code by Moustafa Alzantot
 # used for his paper "GenAttack: Practical Black-box Attacks with Gradient-Free".

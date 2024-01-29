@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from malib.policies.gaussian_policy import GaussianMLPPolicy
 from malib.policies.uniform_policy import UniformPolicy
 from malib.policies.deterministic_policy import DeterministicMLPPolicy

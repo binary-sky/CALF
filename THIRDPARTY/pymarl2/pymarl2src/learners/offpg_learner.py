@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import copy
 from torch.distributions import Categorical
 from torch.optim.rmsprop import RMSprop

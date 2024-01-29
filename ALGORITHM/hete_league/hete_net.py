@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch, math, copy
 import numpy as np
 import torch.nn as nn

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # -*- coding:UTF-8 -*-
 """
 @FileName：communication_service.py

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from scipy.optimize import linear_sum_assignment
 from scipy.cluster.vq import kmeans2

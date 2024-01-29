@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import tensorflow as tf
 
 def fwd_gradients(ys, xs, grad_xs=None, stop_gradients=None,

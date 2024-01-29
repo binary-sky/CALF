@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, sys
 import argparse
 from VISUALIZE.mcom import *

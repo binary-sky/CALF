@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """A `garage.logger.LogOutput` for tensorboard.
 
 It receives the input data stream from `garage.logger`, then add them to

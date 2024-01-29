@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import time, gym
 import numpy as np
 from UTIL.tensor_ops import my_view, get_binary_n_rows

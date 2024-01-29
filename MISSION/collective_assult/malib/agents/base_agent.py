@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import tensorflow as tf
 from malib.core import Serializable
 from malib.utils import tf_utils

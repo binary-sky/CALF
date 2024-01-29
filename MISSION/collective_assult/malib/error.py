@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 class EnvironmentNotFound(Exception):
     """Raised when the environments name
     isn't specified"""

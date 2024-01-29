@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 import random, time
 from UTIL.tensor_ops import distance_matrix, repeat_at, delta_matrix

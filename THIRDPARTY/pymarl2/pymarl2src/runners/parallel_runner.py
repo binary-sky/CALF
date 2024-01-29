@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from UTIL.colorful import *
 from envs import REGISTRY as env_REGISTRY
 from functools import partial

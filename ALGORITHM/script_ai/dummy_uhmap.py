@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from UTIL.tensor_ops import copy_clone
 from MISSION.uhmap.actset_lookup import encode_action_as_digits

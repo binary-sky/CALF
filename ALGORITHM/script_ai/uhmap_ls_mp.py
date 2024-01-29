@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import copy, atexit
 import numpy as np
 from UTIL.tensor_ops import distance_mat_between

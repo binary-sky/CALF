@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # # expel dist
 # DRIVE_AWAY_DIST = 1.2
 #

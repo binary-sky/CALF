@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import paramiko, os, time
 from UTIL.colorful import print亮紫, print亮靛
 from UTIL.tensor_ops import __hash__

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 import importlib
 from UTIL.data_struct import UniqueList

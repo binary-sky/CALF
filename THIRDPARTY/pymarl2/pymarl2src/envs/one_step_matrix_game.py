@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from envs.multiagentenv import MultiAgentEnv
 from utils.dict2namedtuple import convert
 import numpy as np

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import glob
 import os
 import random

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
 @FileName：agent.py
 @Description：agent基类文件

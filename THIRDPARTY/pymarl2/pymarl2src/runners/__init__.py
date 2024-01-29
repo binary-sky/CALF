@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 REGISTRY = {}
 
 from .episode_runner import EpisodeRunner

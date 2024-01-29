@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from distutils.version import StrictVersion
 
 import numpy as np

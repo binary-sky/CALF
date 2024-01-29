@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, sys, math
 import numpy as np
 from .env.xsim_manager import XSimManager

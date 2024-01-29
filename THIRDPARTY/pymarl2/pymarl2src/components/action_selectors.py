@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch as th
 from torch.distributions import Categorical
 from torch.distributions.one_hot_categorical import OneHotCategorical

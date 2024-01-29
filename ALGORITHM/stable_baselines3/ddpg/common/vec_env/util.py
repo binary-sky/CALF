@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
 Helpers for dealing with vectorized environments.
 """

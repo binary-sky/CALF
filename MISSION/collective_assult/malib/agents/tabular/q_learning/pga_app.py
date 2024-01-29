@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from copy import deepcopy
 from malib.agents.tabular.q_learning.base_tabular_agent import StationaryAgent

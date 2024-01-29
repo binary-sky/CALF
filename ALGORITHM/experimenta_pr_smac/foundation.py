@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, time, torch, shutil
 import numpy as np
 from UTIL.colorful import *

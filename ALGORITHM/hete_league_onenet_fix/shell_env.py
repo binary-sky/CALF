@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import numpy as np
 from config import GlobalConfig
 from UTIL.colorful import *

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os,sys
 import numpy as np
 from smac.env.starcraft2.maps import smac_maps

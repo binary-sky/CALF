@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
     live vector normalization using pytorch, 
     therefore the parameter of normalization (mean and var) 

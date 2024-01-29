@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
 2D rendering framework
 """

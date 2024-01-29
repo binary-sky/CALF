@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import platform, os, torch, uuid, time, psutil, json, random
 from UTIL.network import UnixTcpClientP2P, UnixTcpServerP2P
 from atexit import register

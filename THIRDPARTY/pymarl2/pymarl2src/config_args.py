@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import argparse, os, time, func_timeout
 from shutil import copyfile, copytree, ignore_patterns
 from UTIL.colorful import *

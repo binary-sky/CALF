@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import tensorflow as tf
 from malib.agents.base_agent import OffPolicyAgent
 from malib.policies import LevelKPolicy

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from test_funcs import *
 from mixed_test_func import *
 from bo.optimizer import Optimizer

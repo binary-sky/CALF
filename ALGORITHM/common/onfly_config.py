@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, time, torch, traceback, shutil
 from config import GlobalConfig
 from UTIL.colorful import *

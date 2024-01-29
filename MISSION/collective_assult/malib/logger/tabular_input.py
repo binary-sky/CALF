@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """A `garage.logger` input for tabular (key-value) data."""
 import contextlib
 import warnings

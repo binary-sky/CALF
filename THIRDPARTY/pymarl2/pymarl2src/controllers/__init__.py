@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 REGISTRY = {}
 from .basic_controller import BasicMAC
 from .n_controller import NMAC

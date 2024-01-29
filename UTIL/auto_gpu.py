@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 """
 Created on Tue Aug 22 19:41:55 2017
 @author: Quantum Liu

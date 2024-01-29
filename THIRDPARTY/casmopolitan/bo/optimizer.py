@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 from copy import deepcopy
 
 import numpy as np

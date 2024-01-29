@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import torch
 
 def clip_by_tensor(t,t_min,t_max):

@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 base = """
 {
     "config.py->GlobalConfig": {

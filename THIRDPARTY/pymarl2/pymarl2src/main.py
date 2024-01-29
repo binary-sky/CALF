@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import os, sys
 sys.path.append(os.getcwd())
 import numpy as np

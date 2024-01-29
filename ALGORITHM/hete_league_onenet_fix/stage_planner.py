@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import math
 from .foundation import AlgorithmConfig
 from UTIL.colorful import *

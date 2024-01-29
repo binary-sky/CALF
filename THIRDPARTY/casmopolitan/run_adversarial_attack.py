@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 # Xingchen Wan <xwan@robots.ox.ac.uk> | 2020
 # The adversarial attack problem is slightly different from the other problems, since in other problems
 # we directly optimise the objective function, but here we aim to achieve higher ASR (attack success rate)

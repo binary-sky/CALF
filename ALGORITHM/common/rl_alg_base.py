@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import time
 from UTIL.tensor_ops import __hash__, repeat_at
 from UTIL.colorful import *

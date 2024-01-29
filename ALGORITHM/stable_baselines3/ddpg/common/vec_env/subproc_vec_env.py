@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 import multiprocessing as mp
 from collections import OrderedDict
 from typing import Any, Callable, List, Optional, Sequence, Tuple, Type, Union

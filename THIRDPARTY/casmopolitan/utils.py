@@ -1,3 +1,5 @@
+# Program Author: Qingxu Fu, CASIA
+
 def spearman(pred, target) -> float:
     """Compute the spearman correlation coefficient between prediction and target"""
     from scipy import stats
