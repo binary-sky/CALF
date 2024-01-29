@@ -146,8 +146,7 @@ flowchart LR
         R00082[["📁script_ai"]] --> R000821["🗎decision.py"]
         R0008[["📁ALGORITHM"]] --> R00082[["📁script_ai"]]
         R000[["📁CALF"]] --> R0008[["📁ALGORITHM"]]
-        R00[["📁CALF.zip.extract"]] --> R000[["📁CALF"]]
-        R0[["📁root"]] --> R00[["📁CALF.zip.extract"]]
+
 
         
     end
@@ -257,8 +256,7 @@ flowchart LR
         R00001[["📁common"]] --> R000013["🗎ppo_sampler.py"]
         R0000[["📁ALGORITHM"]] --> R00001[["📁common"]]
         R000[["📁CALF"]] --> R0000[["📁ALGORITHM"]]
-        R00[["📁CALF.zip.extract"]] --> R000[["📁CALF"]]
-        R0[["📁root"]] --> R00[["📁CALF.zip.extract"]]
+
     end
 ```
 
@@ -366,8 +364,7 @@ flowchart LR
         R00001[["📁stable_baselines3"]] --> R000012["🗎Baseline_Foundation.py"]
         R0000[["📁ALGORITHM"]] --> R00001[["📁stable_baselines3"]]
         R000[["📁CALF"]] --> R0000[["📁ALGORITHM"]]
-        R00[["📁CALF.zip.extract"]] --> R000[["📁CALF"]]
-        R0[["📁root"]] --> R00[["📁CALF.zip.extract"]]
+
     end
 ```
 
@@ -476,8 +473,7 @@ flowchart LR
         R00002[["📁coop_space_forwarding"]] --> R000026["🗎my_utils.py"]
         R0000[["📁ALGORITHM"]] --> R00002[["📁coop_space_forwarding"]]
         R000[["📁CALF"]] --> R0000[["📁ALGORITHM"]]
-        R00[["📁CALF.zip.extract"]] --> R000[["📁CALF"]]
-        R0[["📁root"]] --> R00[["📁CALF.zip.extract"]]
+
     end
 ```
 
@@ -587,7 +583,6 @@ flowchart LR
         R00011[["📁casmopolitan"]] --> R000111["🗎main.py"]
         R0001[["📁THIRDPARTY"]] --> R00011[["📁casmopolitan"]]
         R000[["📁CALF"]] --> R0001[["📁THIRDPARTY"]]
-        R00[["📁CALF.zip.extract"]] --> R000[["📁CALF"]]
-        R0[["📁root"]] --> R00[["📁CALF.zip.extract"]]
+
     end
 ```
