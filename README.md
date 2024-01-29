@@ -46,7 +46,7 @@ python autorl_script.py
 flowchart LR
     %% <gpt_academic_hide_mermaid_code> 一个特殊标记，用于在生成mermaid图表时隐藏代码块
     classDef Comment stroke-dasharray: 5 5
-    subgraph 项目示意图
+    subgraph project_map
         R0000["🗎autorl_script.py"] -.-x CR0000["`The file a
         utorl_scri
         pt.py is a
@@ -157,7 +157,7 @@ flowchart LR
 flowchart LR
     %% <gpt_academic_hide_mermaid_code> 一个特殊标记，用于在生成mermaid图表时隐藏代码块
     classDef Comment stroke-dasharray: 5 5
-    subgraph 项目示意图
+    subgraph project_map
         R000000["🗎assignment.py"] -.-x CR000000["`The file a
         ssignment.
         py is a Py
@@ -266,7 +266,7 @@ flowchart LR
 flowchart LR
     %% <gpt_academic_hide_mermaid_code> 一个特殊标记，用于在生成mermaid图表时隐藏代码块
     classDef Comment stroke-dasharray: 5 5
-    subgraph 项目示意图
+    subgraph project_map
         R000000["🗎net_manifest.py"] -.-x CR000000["`The code i
         n the file
          net_manif
@@ -375,7 +375,7 @@ flowchart LR
 flowchart LR
     %% <gpt_academic_hide_mermaid_code> 一个特殊标记，用于在生成mermaid图表时隐藏代码块
     classDef Comment stroke-dasharray: 5 5
-    subgraph 项目示意图
+    subgraph project_map
         R000000["🗎net.py"] -.-x CR000000["`The given 
         file is na
         med net.py
@@ -485,7 +485,7 @@ flowchart LR
 flowchart LR
     %% <gpt_academic_hide_mermaid_code> 一个特殊标记，用于在生成mermaid图表时隐藏代码块
     classDef Comment stroke-dasharray: 5 5
-    subgraph 项目示意图
+    subgraph project_map
         R0000000["🗎UhmapLargeScaleConf.py"] -.-x CR0000000["`The file C
         ALF.zip.ex
         tract/CALF
