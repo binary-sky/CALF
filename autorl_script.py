@@ -32,7 +32,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
         "seed": 0,
         "mt_act_order": "new_method",
         "backup_files": [
-            "ALGORITHM/experimental_conc_mt_fuzzy_agent_wise_3",
+            "ALGORITHM/calf_intrinsic_reward",
             "MISSION/dca_multiteam"
         ]
     },
@@ -50,12 +50,12 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
         "half_death_reward": true,
         "TEAM_NAMES": [
             // "ALGORITHM.random.foundation->RandomController"
-            "ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation->ReinforceAlgorithmFoundation",
-            "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation->ReinforceAlgorithmFoundation",
+            "ALGORITHM.calf_intrinsic_reward.foundation->ReinforceAlgorithmFoundation",
+            "TEMP.TEAM2.ALGORITHM.calf_intrinsic_reward.foundation->ReinforceAlgorithmFoundation",
         ]
     },
 
-    "ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig": {
+    "ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig": {
         "train_traj_needed": 32,
         "n_focus_on": 3,
         "lr": 0.0003,
@@ -70,7 +70,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
         "gpu_party_override": "cuda6_party0"
     },
 
-    "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig": {
+    "TEMP.TEAM2.ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig": {
         "train_traj_needed": 32,
         "n_focus_on": 3,
         "lr": 0.0003,
@@ -152,7 +152,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
         self.logger.info(f'input X={X} | parsed {[p0,p1,p2,p3,p4,p5,p6,p7,p8]}')
 
         conf_override.update({
-                "ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->fuzzy_controller_param": \
+                "ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->fuzzy_controller_param": \
                     [[p0,p1,p2,p3,p4,p5,p6,p7,p8]] * self.n_run
             })
 
@@ -165,7 +165,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
         if batch==0:
             return {
                 ########################################
-                "ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->device_override":
+                "ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->device_override":
                     [
                         "cuda:0",
                         "cuda:0",
@@ -176,7 +176,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                         "cuda:1",
                         "cuda:1",
                     ],
-                "ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->gpu_party_override":
+                "ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->gpu_party_override":
                     [
                         "#0",
                         "#0",
@@ -189,7 +189,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                     ],
 
                 ########################################
-                "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->device_override":
+                "TEMP.TEAM2.ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->device_override":
                     [
                         "cuda:0",
                         "cuda:0",
@@ -200,7 +200,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                         "cuda:1",
                         "cuda:1",
                     ],
-                "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->gpu_party_override":
+                "TEMP.TEAM2.ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->gpu_party_override":
                     [
                         "#2",
                         "#2",
@@ -216,7 +216,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
         elif batch==1:
             return {
                 ########################################
-                "ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->device_override":
+                "ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->device_override":
                     [
                         "cuda:2",
                         "cuda:2",
@@ -227,7 +227,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                         "cuda:0",
                         "cuda:0",
                     ],
-                "ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->gpu_party_override":
+                "ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->gpu_party_override":
                     [
                         "#2", 
                         "#2",
@@ -240,7 +240,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                     ],
 
                 ########################################
-                "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->device_override":
+                "TEMP.TEAM2.ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->device_override":
                     [
                         "cuda:2",
                         "cuda:2",
@@ -251,7 +251,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                         "cuda:0",
                         "cuda:0",
                     ],
-                "TEMP.TEAM2.ALGORITHM.experimental_conc_mt_fuzzy_agent_wise_3.foundation.py->AlgorithmConfig-->gpu_party_override":
+                "TEMP.TEAM2.ALGORITHM.calf_intrinsic_reward.foundation.py->AlgorithmConfig-->gpu_party_override":
                     [
                         "#3", 
                         "#3",

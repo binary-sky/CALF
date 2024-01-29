@@ -23,7 +23,7 @@ reproduction method:
 
 - start docker container:
 ```
-docker run -itd   --name  hmp-$USER \
+docker run -itd --name hmp-$USER \
 --net host \
 --gpus all \
 --shm-size=16G \
@@ -35,7 +35,7 @@ fuqingxu/hmp:latest
 git clone https://github.com/binary-husky/CALF.git
 ```
 
-- run calf:
+- run calf with calf_intrinsic_reward:
 ```
 python autorl_script.py
 ```
