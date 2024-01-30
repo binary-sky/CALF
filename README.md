@@ -1,7 +1,7 @@
 # Introduction
 
 This is the open source program of the CALF paper.
-This source code is a fork of the HMP repository.
+This source code is a fork of the HMP repository （https://github.com/binary-husky/hmp2g）.
 The Hybrid Multi-agent Playground (HMP) is an experimental framework designed for Reinforcement Learning (RL) researchers.
 Unlike any other framework which only isolates the TASKs from the framework, 
 HMP also separates the ALGORITHMs from the framework to achieve excellent compatibility.
