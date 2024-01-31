@@ -202,7 +202,7 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                 # "addr": "172.18.29.20:20256",
                 "addr": "172.18.29.20:20256",
                 "usr": "hmp",
-                "pwd": "hmp"
+                "pwd": "your_hmp_password"
             },
         ]*self.n_run
         self.sum_note = "Bo_AutoRL"

@@ -72,7 +72,7 @@ n_run_mode = [
     {
         "addr": "localhost:2266",
         "usr": "hmp",
-        "pwd": "hmp"
+        "pwd": "your_hmp_password"
     },
 ]*n_run
 assert len(n_run_mode)==n_run

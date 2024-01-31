@@ -305,21 +305,21 @@ class HmpBayesianOptimizationInterface(BayesianOptimizationInterface):
                 {   
                     "addr": "localhost:2266",
                     "usr": "hmp",
-                    "pwd": "hmp"
+                    "pwd": "your_hmp_password"
                 },
             ]*self.n_run,
             [
                 {   
                     "addr": "210.75.240.143:2236",
                     "usr": "hmp",
-                    "pwd": "hmp"
+                    "pwd": "your_hmp_password"
                 },
             ]*self.n_run,
             [
                 {   
                     "addr": "210.75.240.143:2236",
                     "usr": "hmp",
-                    "pwd": "hmp"
+                    "pwd": "your_hmp_password"
                 },
             ]*self.n_run,
         ]

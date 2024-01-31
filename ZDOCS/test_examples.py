@@ -24,7 +24,7 @@ target_server = [
     {
         "addr": "localhost:2266",
         "usr": "hmp",
-        "pwd": "hmp"
+        "pwd": "your_hmp_password"
     },
 ]*n_run
 
